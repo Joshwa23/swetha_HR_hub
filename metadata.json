@@ -1,0 +1,9 @@
+{
+  "name": "Hire Hub",
+  "description": "Real-time HR interview platform connecting candidates with HR professionals for scheduled interviews and feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
